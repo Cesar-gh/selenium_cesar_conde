@@ -11,7 +11,7 @@ import org.testng.annotations.Test;
 import java.util.List;
 
 public class registrationFacebookTest {
-
+    /* Test */
     //se crea metodo
     @Test
     public void  fullRegistrationTest() throws InterruptedException {
